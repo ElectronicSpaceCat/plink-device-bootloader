@@ -1,6 +1,6 @@
 PROJECT_NAME     := ble_plink_bootloader
 TARGETS          := nrf_plink_bootloader
-OUTPUT_DIRECTORY := _Prod_makefile
+OUTPUT_DIRECTORY := build
 
 PROJ_DIR := ./
 LINKER_DIR := $(PROJ_DIR)/linker
